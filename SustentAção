@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <html>
 <style>
-h1{color: azul; 
+h1{color: blue; 
 font-size:50px;
 }
 </style>
@@ -11,14 +11,14 @@ font-size:50px;
 <body> 
 <h1> SustentAção </h1>
 <p> Sustentabilidade refere-se ao principio da busca pelo equilíbrio entre a disponibilidade dos recuursos naturais e a exploraçao deles por parte da sociedade.<\p> 
-<h2> meio ambiente <\h2>
-<ul> <\ul>
+<h2> meio ambiente </h2>
+<ul> SustentaNAtureza </ul>
 <li> água </li> 
 <li> terra </li> 
 <li> flora </li> 
 <li> fauna </li> 
-<\body>
-<\html>
+</body>
+</html>
 <ahrf="SustentAção"
 target="-blank">SustentAção"
 https://portosaopedro.com.br/wp-content/uploads/2019/03/aproximacao-da-natureza-promove-qualidade-de-vida-1.jpg
