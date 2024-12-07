@@ -1,10 +1,10 @@
 <idoctype html>
 <html lang="pt-BR">
 <html>
-<estilo>
-h1{cor da fonte: azul; 
-tamanho da fonte:50;}
-</estilo>
+<style>
+h1{color: azul; 
+font-size:50px;}
+</style>
 <head> SustetAção </head>
 <title> Terra em Eequilibrio </title>
 <body> 
