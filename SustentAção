@@ -2,14 +2,14 @@
 <html lang="pt-BR">
 <html>
 <estilo>
-H1{cor da fonte: azul; 
+h1{cor da fonte: azul; 
 tamanho da fonte:50;
 } 
 </estilo>
 <head> SustetAção </head>
 <title> Terra em Eequilibrio </title>
 <body> 
-<H1> SustentAção </h1>
+<h1> SustentAção </h1>
 <p> Sustentabilidade refere-se ao principio da busca pelo equilíbrio entre a disponibilidade dos recuursos naturais e a exploraçao deles por parte da sociedade.<\p> 
 <h2> meio ambiente <\h2>
 <ul> <\ul>
