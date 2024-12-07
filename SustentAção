@@ -23,3 +23,20 @@ https://www.youtube.com/watch?v=pWjmpSD-ph0
 <th> Samara </th>
 <th> 17</th>
 </tr>
+</thead>
+<tbody>
+<tr>
+<td>Maria</td> 
+<td>25</td>
+</tr>
+<tr>
+<td>João</td>
+<td>30</td>
+</tr>
+</tbody>
+<table>
+<form action>="Nuvem"
+<Label form="nome">Nome</Label>
+<Input Type="mensagem"Id Place Holder="mensagem" </textarea>
+<button> "Enviar" </button>
+<audio controls>"audio.mp3""https://www.youtube.com/watch?v=Dho_VqAAJC8"
